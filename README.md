@@ -1,2 +1,2 @@
 # mini-responsive-web
-https://acrosave.github.io/responsive/
+https://acrosave.github.io/mini-proyect-responsive/
